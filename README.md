@@ -46,3 +46,14 @@ https://user-images.githubusercontent.com/99471693/181205078-250afb86-bcbd-4769-
 ![](Execution_Results/Ganache_Transactions.png)
 
 
+#### **8. Before buying tokens of 1ETH** <br/><br/>
+![](Execution_Results/Before_BuyToken.png)
+<br/><br/>
+
+
+#### **9. After buying tokens and WEIraised reflect the transaction** <br/><br/>
+![](Execution_Results/After_BuyToken.png)
+<br/><br/>
+![](Execution_Results/Transaction_Details.png)
+
+
