@@ -26,7 +26,11 @@ Here are the execution results:
 
 
 #### **6. Test the Crowdsale on a Local Blockchain**
-Created with initial supply of 7KAI at account address 0x461C09A08c2b0F8Cd7766A22220b89e887fd81d5 and after 2KAI transfer, the remaining balances display as uint256: 5000000000000000000 = 5KAI
-![Test the Crowdsale Demo](Execution_Results/Kaseicoin_Crowdsale.mov)
+Created with initial supply of 7KAI at account address 0x461C09A08c2b0F8Cd7766A22220b89e887fd81d5 and after 2KAI transfer, the remaining balances display as uint256: 5000000000000000000 = 5KAI.
+
+
+https://user-images.githubusercontent.com/99471693/181205078-250afb86-bcbd-4769-b70c-99cb62eb104b.mp4
+
+![Test the Crowdsale Demo](Execution_Results/Kaseicoin_Crowdsale.mp4)
 
 
